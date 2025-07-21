@@ -2,7 +2,7 @@ name: send mail
 on:
   push:
     branches:
-      -main
+      - main
 
 jobs:
   mail:
